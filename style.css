@@ -36,6 +36,12 @@ nav li a:hover {
     color: #348ad4;
 }
 
+.ul_link {
+    display: flex;
+    padding: 0 55px 0 55px;
+    gap: 20px;
+}
+
 .btn button {
     color: #fff;
     padding: 5px 20px;
